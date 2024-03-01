@@ -5,4 +5,5 @@ A new Flutter project.
 ## Output UI
 
 
-![trip planner](https://github.com/TahmidMannanDipu/Trip_Planner/assets/143392225/cadea77e-5d8d-496a-be9a-d490f2df4b58)
+
+![Screenshot_20240302_000936](https://github.com/TahmidMannanDipu/Trip_Planner/assets/143392225/47bbf2c7-4bf5-4e0a-b148-14f8ebe8234e)
