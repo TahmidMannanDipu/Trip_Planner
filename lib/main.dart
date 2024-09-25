@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
 void main() => runApp(const MyApp());
 
@@ -178,7 +179,7 @@ class MyApp extends StatelessWidget {
                                   fontWeight: FontWeight.bold),
                             ),
                             SizedBox(
-                              width: 160,
+                              width: 200,
                             ),
                             Text(
                               'See all',
